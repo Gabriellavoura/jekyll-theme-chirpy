@@ -8,12 +8,10 @@
 # --------------------------
 title: Gabriel Lavoura # the main title
 
-tagline: Automation Engineer, MS Computer Engineering. # it will display as the sub-title
+tagline: Automation Engineer, MS Student in Computer Engineering and open-source developer. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Blog about some of my projects and cool things.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -84,7 +82,7 @@ theme_mode: # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://avatars.githubusercontent.com/u/15681084?s=460&u=463888d64d791902abcfb6c52f3c05b72ca933e0&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true

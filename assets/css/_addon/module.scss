@@ -40,7 +40,7 @@
 
 %heading {
   font-weight: 400;
-  font-family: 'Lato', 'Microsoft Yahei', sans-serif;
+  font-family: "Lato", "Microsoft Yahei", sans-serif;
 }
 
 %section {
@@ -72,6 +72,9 @@
   border-radius: 50%;
   width: $diameter;
   height: $diameter;
+  display: block;
+  margin-right: auto;
+  margin-right: auto;
 }
 
 @mixin ml-mr($value) {
